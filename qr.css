@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue ;
+    align-content: center;
+}
+table{
+    background-color: aliceblue;
+    border: 0cap;
+    border-color: white;
+    border-width: 15px;
+    line-height: normal;
+    border-radius: 15px;
+    padding:10px;
+}
+#p1{
+    text-decoration-color:paleturquoise;
+}
